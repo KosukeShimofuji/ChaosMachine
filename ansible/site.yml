@@ -1,5 +1,5 @@
 ---
-- hosts: all 
+- hosts: chaos.test
   become: true
   user: "{{ansible_user}}"
   roles:

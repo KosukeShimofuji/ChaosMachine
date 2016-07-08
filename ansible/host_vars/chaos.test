@@ -1,5 +1,5 @@
 ---
-hostname: 'ChaosMachine.test'
+hostname: 'chaos.test'
 ansible_user: vagrant
 login_user: "kosuke"
 
